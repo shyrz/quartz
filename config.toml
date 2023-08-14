@@ -1,4 +1,4 @@
-baseURL = "https://shyrz.github.io/quartz"
+baseURL = "https://shyrz.github.io/quartz/"
 languageCode = "zh-cn"
 relativeURLs = false
 disablePathToLower = true
