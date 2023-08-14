@@ -1,9 +1,7 @@
 ---
-title: 🪴 Quartz 3.3
+title: Informavore 信息动物
 enableToc: false
 ---
-[[发布/content/notes/images/banner.svg]]
-
 **[ɪnˈfɔːməvɔ:] n. 信息动物**
 - 本站点为 Shyrz 的 Obsidian 仓库生成的发布
 - 主题采用的是 [Papyrus](https://github.com/shyrz/hugo-papyrus)，基于 [Reorx](https://reorx.com/) 的 [PaperModX](https://github.com/reorx/hugo-PaperModX) 开发
@@ -29,4 +27,3 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
