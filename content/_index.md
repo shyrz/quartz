@@ -2,7 +2,7 @@
 title: 🪴 Quartz 3.3
 enableToc: false
 ---
-![[发布/content/notes/images/banner.svg]]
+[[发布/content/notes/images/banner.svg]]
 
 **[ɪnˈfɔːməvɔ:] n. 信息动物**
 - 本站点为 Shyrz 的 Obsidian 仓库生成的发布
