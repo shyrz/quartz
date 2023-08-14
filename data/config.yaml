@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Shyrz
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -17,13 +17,12 @@ search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+description: |
+  [ɪnˈfɔːməvɔ:] n. 信息动物
 page_title:
-  "🪴 Quartz 3.3"
+  "Informavore"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/shyrz__
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/shyrz
