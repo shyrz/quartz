@@ -2,7 +2,7 @@
 title: "Ubuntu 22.04 下的 Ghost 安装笔记"
 date: "2023-08-06"
 description: ""
-tags: ["Ubuntu", "Ghost"]
+tags: [Ubuntu, Ghost]
 ---
 系统 Ubuntu 22.04
 
