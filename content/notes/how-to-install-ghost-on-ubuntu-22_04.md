@@ -4,7 +4,6 @@ date: "2023-08-06"
 description: ""
 tags: "Ubuntu, Ghost"
 ---
-
 系统 Ubuntu 22.04
 
 ## 安装 `certbot` 
