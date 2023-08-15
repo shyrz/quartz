@@ -18,7 +18,7 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{{ .Title }}" />
   <meta name="twitter:description" content="{{if .IsHome}}{{$data.description | default $.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}" />
-  <meta name="twitter:image" content="{{.Site.BaseURL}}icon.png">
+  <meta name="twitter:image" content="{{.Site.BaseURL}}banner.png">
   {{ range $data.links }}
     {{ if strings.Contains .link "twitter.com" }}
       {{ $twitter_handle := index (split .link "/") (sub (len (split .link "/")) 1) }}
